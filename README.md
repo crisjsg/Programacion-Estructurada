@@ -1,4 +1,4 @@
-# Programacion-Estructurada
+# Programacion Estructurada
 Aqui están los ejercicios hechos de clase en el paradigma: Estructurado.
 
 El código escrito está pendiente de refactorización asi que si veis algo que me recomendaseis refactorizar de alguna forma en especial será bienvenida la recomendación.
